@@ -1,0 +1,10 @@
+C:\Users\dbern\source\repos\ColasB\ColasB\bin\Debug\ColasB.exe.config
+C:\Users\dbern\source\repos\ColasB\ColasB\bin\Debug\ColasB.exe
+C:\Users\dbern\source\repos\ColasB\ColasB\bin\Debug\ColasB.pdb
+C:\Users\dbern\source\repos\ColasB\ColasB\obj\Debug\ColasB.csproj.AssemblyReference.cache
+C:\Users\dbern\source\repos\ColasB\ColasB\obj\Debug\ColasB.Form1.resources
+C:\Users\dbern\source\repos\ColasB\ColasB\obj\Debug\ColasB.Properties.Resources.resources
+C:\Users\dbern\source\repos\ColasB\ColasB\obj\Debug\ColasB.csproj.GenerateResource.cache
+C:\Users\dbern\source\repos\ColasB\ColasB\obj\Debug\ColasB.csproj.CoreCompileInputs.cache
+C:\Users\dbern\source\repos\ColasB\ColasB\obj\Debug\ColasB.exe
+C:\Users\dbern\source\repos\ColasB\ColasB\obj\Debug\ColasB.pdb
